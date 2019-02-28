@@ -1,0 +1,44 @@
+<mxfile>
+	<mxGraphModel dx="15" dy="15" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1440" background="#ffffff" appId="73" appName="test1" appType="grid" appIndex="1" typeFloor="elefloor" isSelect="1">
+		<root>
+			<mxCell id="0"/>
+			<mxCell id="1" parent="0"/>
+
+			<mxCell id="39" parent="1" style="exitX=0;exitY=0.5;" edge="1">
+				<mxGeometry relative="1" as="geometry"/>
+			</mxCell>
+
+			<mxCell id="40" parent="1" style="exitX=0;exitY=0.5;" edge="1">
+				<mxGeometry relative="1" as="geometry"/>
+			</mxCell>
+
+			<GObject gobjType="GLinear" curVal="50" maxVal="200" isValShow="1" direction="1" fgColor="#33FFFF" bgColor="#FF99CC" textColor="#000" undefined="#FF99CC" id="64">
+				<Array as="dataIds">
+					<add value=""/>
+				</Array>
+				<!-- mxGeometry中的x,y是相对于class=geBackgroundPage 的div来说的-->
+				<mxCell parent="1" style="overflow=fill;fillColor=none;strokeColor=none;" vertex="1">
+					<mxGeometry x="550" y="280" width="20" height="200" as="geometry"/>
+				</mxCell>
+			</GObject>
+
+			<GObject gobjType="GDataTag" label="l23" dataSrc="" measTable="" measId="" measName="" valueUnit="" dispUnit="v" dataFormat="0" bShowPhy="1" bShowUnit="1" bShowTime="0" phyType="电压" id="57">
+				<mxCell parent="0" style="shape=label;fillColor=none;strokeColor=none;fontColor=#000;dashed=1;" vertex="1" visible="0">
+					<mxGeometry x="716" y="797" width="80" height="30" as="geometry"/>
+				</mxCell>
+			</GObject>
+
+		</root>
+	</mxGraphModel>
+</mxfile>
+
+<!--  空白项目的xml 
+<mxfile>
+	<mxGraphModel dx="15" dy="15" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1440" background="#ffffff" appId="78" appName="A" appType="grid" appIndex="1" typeFloor="elefloor" isSelect="1">
+		<root>
+			<mxCell id="0"/>
+			<mxCell id="1" parent="0"/>
+		</root>
+	</mxGraphModel>
+</mxfile>
+-->
